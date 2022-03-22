@@ -1,0 +1,2 @@
+socket_sever
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/ht/socket_ros/devel -DCMAKE_INSTALL_PREFIX=/home/ht/socket_ros/install -G Unix Makefiles
